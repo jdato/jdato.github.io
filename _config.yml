@@ -1,5 +1,5 @@
 # Site
-title:              J.Dato
+title:              Johannes Dato
 bio:                'Italo-German. Software Developer. Musician. Traveller.'
 description:        "A way to checkout some details about me."
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             de_DE
-url:                https://johannesdato.eu
+url:                https://jdato.github.io
 
 # Jekyll
 permalink:          /:title/
